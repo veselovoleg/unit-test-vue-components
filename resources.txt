@@ -1,0 +1,5 @@
+https://eddyerburgh.me/unit-test-vue-components-beginners
+
+https://eddyerburgh.me/unit-test-vue-components
+
+https://medium.com/devschacht/simple-unit-tests-with-vue-test-utils-and-jest-a93f4ed3de64
